@@ -8,8 +8,8 @@ main:
     url: /about/
   - title: "potato"
     url: /potato/
- # - title: "Pages"
- #   url: /page-archive/
+  - title: "Pages"
+    url: /contact-me/
 #  - title: "Collections"
  #   url: /collection-archive/
  # - title: "External Link"
