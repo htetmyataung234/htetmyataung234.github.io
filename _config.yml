@@ -30,10 +30,10 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  htetmyataung234
 
 nav_pages:
-  - index.markdown
+  # - index.markdown
   #- talks.md
   #- press.md
-  - about.md
+  - about.markdown
   #- contact.md
 
 # Build settings
