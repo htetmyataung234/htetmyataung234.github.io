@@ -30,18 +30,19 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  htetmyataung234
 
 nav_pages:
-  # - index.markdown
   #- index.markdown
   #- talks.md
   #- press.md
   - about.markdown
-  #- contact.md
+  - contact_me.markdown
 
 # Build settings
 remote_theme: benbalter/retlab
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
+layout_dir: _layouts
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
