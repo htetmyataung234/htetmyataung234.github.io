@@ -40,7 +40,7 @@ nav_pages:
 remote_theme: benbalter/retlab
 plugins:
   - jekyll-remote-theme
-  - jekyll-feed
+  - feed_generator_override
 layout_dir: _layouts
 
 
