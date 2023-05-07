@@ -35,11 +35,10 @@ nav_pages:
   #- press.md
   - about.markdown
   - contact_me.markdown
-
+feed : False
 # Build settings
 remote_theme: benbalter/retlab
 plugins:
-  - jekyll-feed
   - jekyll-remote-theme
 layout_dir: _layouts
 
